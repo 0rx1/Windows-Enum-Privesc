@@ -135,7 +135,7 @@
 > wmic useraccount where sid='****' get name 
 ```
 ## DLL Hijacking 
-- [UAC bypass exploits](https://github.com/hfiref0x/UADLL)
+- [UAC bypass exploits](https://github.com/hfiref0x/UACME)
 
 ## GETTING SYSTEM
  -  AlwaysInstallElevated
